@@ -15,7 +15,8 @@ const menuData = {
       name: "Herborner Helles",
       description: "Unser hauseigenes helles Lagerbier, gebraut mit regionalen Zutaten",
       price: "4,50€",
-      image: "https://images.unsplash.com/photo-1720513840843-fd295b4acc35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmFmdCUyMGJlZXIlMjBwb3VyJTIwZm9hbXxlbnwxfHx8fDE3NTY3NTMwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      image: "https://images.unsplash.com/photo-1720513840843-fd295b4acc35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmFmdCUyMGJlZXIlMjBwb3VyJTIwZm9hbXxlbnwxfHx8fDE3NTY3NTMwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      alt: "Ein Glas Herborner Helles, frisch gezapft"
     },
     {
       name: "Craft IPA Selection",
@@ -34,6 +35,7 @@ const menuData = {
       description: "Bourbon Whiskey, Ahornsirup, Angostura Bitters, Orangenzeste",
       price: "12,00€",
       image: "https://images.unsplash.com/photo-1695927521601-3d09a9604116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3aGlza2V5JTIwZ2xhc3MlMjBhbWJlciUyMGxpZ2h0aW5nfGVufDF8fHx8MTc1Njc1MzAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      alt: "Der Unikat Old Fashioned Cocktail in einem edlen Glas",
       featured: true
     },
     {
@@ -52,7 +54,8 @@ const menuData = {
       name: "Cheese & Charcuterie Board",
       description: "Auswahl regionaler Käse und Aufschnitt mit hausgemachtem Brot",
       price: "16,00€",
-      image: "https://images.unsplash.com/photo-1659968495051-28b6354e67de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYXIlMjBzbmFja3MlMjBhcHBldGl6ZXJzfGVufDF8fHx8MTc1NjY0NDY2Mnww&ixlib=rb-4.1.0&q=80&w=1080"
+      image: "https://images.unsplash.com/photo-1659968495051-28b6354e67de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYXIlMjBzbmFja3MlMjBhcHBldGl6ZXJzfGVufDF8fHx8MTc1NjY0NDY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      alt: "Eine reichhaltige Käse- und Wurstplatte, perfekt zum Teilen"
     },
     {
       name: "Truffle Fries",

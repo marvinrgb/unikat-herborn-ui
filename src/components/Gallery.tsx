@@ -4,27 +4,27 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 const galleryImages = [
   {
     src: "https://images.unsplash.com/photo-1681912406153-3c182eb94426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXJrJTIwbW9vZHklMjBiYXIlMjBpbnRlcmlvcnxlbnwxfHx8fDE3NTY3NTMwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    alt: "Dark moody bar interior",
+    alt: "Interieur der Unikat Bar in Herborn - gemütliche Atmosphäre",
     size: "large"
   },
   {
     src: "https://images.unsplash.com/photo-1695927521601-3d09a9604116?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3aGlza2V5JTIwZ2xhc3MlMjBhbWJlciUyMGxpZ2h0aW5nfGVufDF8fHx8MTc1Njc1MzAxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-    alt: "Whiskey glass with amber lighting",
+    alt: "Whiskey-Glas mit bernsteinfarbenem Licht in der Unikat Bar Herborn",
     size: "medium"
   },
   {
     src: "https://images.unsplash.com/photo-1720513840843-fd295b4acc35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmFmdCUyMGJlZXIlMjBwb3VyJTIwZm9hbXxlbnwxfHx8fDE3NTY3NTMwMTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    alt: "Craft beer pour with foam",
+    alt: "Frisch gezapftes Craft Beer mit Schaumkrone in der Unikat Bar",
     size: "medium"
   },
   {
     src: "https://images.unsplash.com/photo-1739156618936-98c98c480b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjb2NrdGFpbCUyMHByZXBhcmF0aW9uJTIwYmFyfGVufDF8fHx8MTc1Njc1MzAxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    alt: "Cocktail preparation at the bar",
+    alt: "Zubereitung eines Cocktails an der Theke der Unikat Bar Herborn",
     size: "small"
   },
   {
     src: "https://images.unsplash.com/photo-1659968495051-28b6354e67de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiYXIlMjBzbmFja3MlMjBhcHBldGl6ZXJzfGVufDF8fHx8MTc1NjY0NDY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-    alt: "Bar snacks and appetizers",
+    alt: "Leckere Bar-Snacks und Vorspeisen im Unikat Herborn",
     size: "small"
   }
 ];

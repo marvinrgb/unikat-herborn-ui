@@ -21,7 +21,7 @@ export default function Hero({ onBookingClick }: HeroProps) {
       <div className="absolute inset-0 z-0">
         <ImageWithFallback
           src="https://images.unsplash.com/photo-1681912406153-3c182eb94426?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXJrJTIwbW9vZHklMjBiYXIlMjBpbnRlcmlvcnxlbnwxfHx8fDE3NTY3NTMwMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
-          alt="Dark moody bar interior"
+          alt="Dunkles, stimmungsvolles Interieur der Unikat Bar"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-background/60"></div>
